@@ -39,6 +39,7 @@ DEPENDENCIES
   faraday
   jwt
   puma
+  rack
   rake
   rspec
   sinatra

@@ -8,6 +8,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem 'rake'
 
 # webhook server deps
+gem 'rack'
 gem 'sinatra'
 gem 'puma'
 gem 'rspec'
